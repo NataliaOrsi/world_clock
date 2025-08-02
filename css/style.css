@@ -59,6 +59,7 @@ select {
 }
 
 footer {
+  padding-top: 30px;
   text-align: center;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
